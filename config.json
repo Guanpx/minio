@@ -1,0 +1,19 @@
+{
+    "version": "33",
+    "credential": {
+        "accessKey": "mall-minio",
+        "secretKey": "tfteSlswRu7BJ86wekitnifILbZam1KYY3TG"
+    },
+    "AccessKey": "mall-minio",
+    "SecretKey": "tfteSlswRu7BJ86wekitnifILbZam1KYY3TG",
+    "region": "us-east-1",
+    "logger": {
+        "console": {
+                "enable": true
+        },
+        "file": {
+                "enable": false,
+                "filename": ""
+        }
+    }
+}
